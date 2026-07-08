@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/A5hG0/LEEETIT/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/A5hG0/LEEETIT/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/A5hG0/LEEETIT/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/A5hG0/LEEETIT/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/A5hG0/LEEETIT/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/A5hG0/LEEETIT/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
