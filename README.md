@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/A5hG0/LEEETIT/tree/master/0071-simplify-path) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/A5hG0/LEEETIT/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
