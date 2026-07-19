@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/A5hG0/LEEETIT/tree/master/0014-longest-common-prefix) |
+| [0135-candy](https://github.com/A5hG0/LEEETIT/tree/master/0135-candy) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/A5hG0/LEEETIT/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/A5hG0/LEEETIT/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/A5hG0/LEEETIT/tree/master/0607-sales-person) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/A5hG0/LEEETIT/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
